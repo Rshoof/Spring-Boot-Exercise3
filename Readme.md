@@ -12,6 +12,14 @@ Endpoints :
 
 - Delete customers
 
+## Create Task tracker system , Where you can get all the taks , add , remove , update taks
+
+Task Class : ID , title , description , status
+
+- Create a new taks (title , description , status , deadline)
+- Display all tasks .
+- Update a task
+- Delete a task
 
 
 
