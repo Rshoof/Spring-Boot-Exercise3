@@ -1,4 +1,4 @@
-# Create Bank management system where you can get all the Customers , add , remove , update Customers
+### Create Bank management system where you can get all the Customers , add , remove , update Customers
 
 Customers Class : ID , Username , Balance
 
@@ -12,7 +12,7 @@ Endpoints :
 
 - Delete customers
 
-# Create Task tracker system , Where you can get all the taks , add , remove , update taks
+### Create Task tracker system , Where you can get all the taks , add , remove , update taks
 
 Task Class : ID , title , description , status
 
