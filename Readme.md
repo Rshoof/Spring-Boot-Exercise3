@@ -12,6 +12,10 @@ Endpoints :
 
 - Delete customers
 
+-Deposit money to customer
+
+-Withdraw money from customers
+
 #### Create Task tracker system , Where you can get all the taks , add , remove , update taks
 
 Task Class : ID , title , description , status
@@ -20,6 +24,8 @@ Task Class : ID , title , description , status
 - Display all tasks .
 - Update a task
 - Delete a task
+-Change the task status as done or not done
+-Search for a task by given title
 
 
 
